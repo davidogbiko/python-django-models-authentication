@@ -1,6 +1,6 @@
 Django==2.2.13
 django-crispy-forms==1.9.1
-pytz==2019.2
+pytz==2020.1
 six==1.15.0
 sqlparse==0.3.0
 unittest-xml-reporting==3.0.2
